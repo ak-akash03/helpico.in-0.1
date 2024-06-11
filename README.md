@@ -34,11 +34,11 @@ To get started with the College Companion Platform, follow these steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/college-companion-platform.git
+    git clone https://github.com/ak-akash03/helpico.in-0.1.git
     ```
 2. **Navigate to the project directory:**
     ```sh
-    cd college-companion-platform
+    cd helpico.in-0.1
     ```
 3. **Install dependencies:**
     ```sh
