@@ -1,6 +1,5 @@
-# 🎓 College Companion Platform
-
-Welcome to the College Companion Platform! This project aims to simplify and enhance the college experience by providing a comprehensive suite of online tools and resources. From assignment writing services to project creation guides and educational blogs, our platform is designed to support students in achieving academic success and personal growth.
+# 🎓 Helpico.in (Assignment.in)
+Welcome to the Helpico.in! This project aims to simplify and enhance the college experience by providing a comprehensive suite of online tools and resources. From assignment writing services to project creation guides and educational blogs, our platform is designed to support students in achieving academic success and personal growth.
 
 ## 🌟 Project Aim
 
