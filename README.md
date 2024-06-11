@@ -70,7 +70,7 @@ We welcome contributions from the community! If you'd like to contribute, please
 
 ## 📧 Contact
 
-If you have any questions or feedback, please reach out to us at [email@example.com](ak.akashrathod03@gmail.com).
+If you have any questions or feedback, please reach out to us at [Email](ak.akashrathod03@gmail.com).
 
 ## 📜 License
 
